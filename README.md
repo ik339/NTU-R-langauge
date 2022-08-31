@@ -1,2 +1,2 @@
-# NTU-R-langauge
-R langauge bioinformatics assessment own code
+# NTU-R-language
+R language bioinformatics assessment own code
