@@ -1,2 +1,2 @@
-# NTU-R-language
-R language bioinformatics assessment own code
+# R Language
+Bioinformatical analysis of SARS-Cov-2 genome data using R language. (own code).
